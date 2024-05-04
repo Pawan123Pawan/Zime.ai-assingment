@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  background: rgba(123, 123, 123, 0.699);
+}
+
+@media (max-width: 768px) {
+  .responsive-table {
+    white-space: nowrap;
+    overflow-x: auto;
+  }
+}
