@@ -69,4 +69,4 @@ This is a React application that fetches and displays paginated data from a dumm
 
 ## Deploy Link
 
-[Live Project link](https://Zime.ai-assingment-pawankumar.vercel.app/)
+[Live Project link](https://zime-ai-assingment-pawankumar.vercel.app/)
